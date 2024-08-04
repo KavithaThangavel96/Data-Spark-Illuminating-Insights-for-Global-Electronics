@@ -27,8 +27,7 @@ Connect SQL to Power BI/Tableau, import the data, and create interactive dashboa
 Formulate and execute SQL queries to extract key insights from the data. These queries should address important business questions and support the analysis steps below.
 
 ## Analysis Steps:
-## Customer Analysis
-## Demographic Distribution: 
+## Customer Analysis and Demographic Distribution: 
 Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
 ## Purchase Patterns: 
 Identify purchasing patterns such as average order value, frequency of purchases, and preferred products.
